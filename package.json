@@ -1,0 +1,15 @@
+{
+  "name": "donate-period",
+  "version": "1.0.0",
+  "description": "Period Donation Platform with Geolocation",
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^9.0.0"
+  }
+}
